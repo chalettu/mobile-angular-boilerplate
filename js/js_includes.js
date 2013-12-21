@@ -9,11 +9,9 @@ head.js(
 	{angular:"js/libs/angular.min.js" },
 	{ang_resource:'js/libs/angular-resource.min.js'},
 	{ang_route: 'js/libs/angular-route.min.js'},
-	{parsley: "js/libs/parsley.min.js"},
+	{ang_mobile_nav: 'js/libs/mobile-nav.min.js'},
 	{app: "js/app.js"}
 );
-
-
 
 
  head.ready(function () {
